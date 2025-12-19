@@ -5,9 +5,9 @@
 // ----------------------
 // USER CONFIG
 // ----------------------
-const char* ssid     = "secretary jai";
-const char* password = "thiru007";
-const char* OWM_API_KEY = "402514458e5891663983011a546614e2";
+const char* ssid     = "*************";
+const char* password = "*********";
+const char* OWM_API_KEY = "your api key";
 const char* SERVER_URL = "http://10.237.128.62:5000/predict_from_device";
 
 // ----------------------
